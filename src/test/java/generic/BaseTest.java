@@ -17,7 +17,7 @@ import org.testng.annotations.Parameters;
 
 public class BaseTest {
 	
-	public static final String DEFAULT_URL="http://www.google.com";
+	public static final String DEFAULT_URL="https://demo.actitime.com/login.do";
 	public static final String DEFAULT_GRID="no";
 	public static final String DEFAULT_BROWSER="Chrome";
 	public static final String XL_PATH="./data/input.xlsx";
