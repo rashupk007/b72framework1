@@ -44,7 +44,7 @@ public class LoginPage {
 			Reporter.log("Err Msg is Displayed",true);
 			return true;
 		} catch (Exception e) {
-			Reporter.log("Err Msg is Displayed",true);
+			Reporter.log("Err Msg is Not Displayed",true);
 			return false;
 		}
 	}
